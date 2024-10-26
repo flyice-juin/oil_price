@@ -1,0 +1,11 @@
+{
+  "domain": "oil_price",
+  "name": "Oil Price",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/your_username/oil_price",
+  "dependencies": [],
+  "codeowners": ["@your_username"],
+  "requirements": ["aiohttp"],
+  "iot_class": "cloud_polling"
+}
